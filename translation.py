@@ -27,7 +27,10 @@ This is a Telegram Rename Bot!
 1. Send me any Telegram File.
 2. Reply to that message to /rename new name.extension.
    
-<b>👉 Create own Bot :</b> 👉 <a href="http://t.me/hamit00">Hamit</a>
+<b>👉 Create own Bot :</b> 👉 <a href="http://t.me/hamit00">Hamit</a>"""
+
+
+
 
 
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.."
